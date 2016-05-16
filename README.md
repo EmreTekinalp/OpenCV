@@ -1,2 +1,2 @@
 # OpenCV
-This repository includes a personal library of OpenCV related code.
+This repository includes a personal library of OpenCV related projects.
