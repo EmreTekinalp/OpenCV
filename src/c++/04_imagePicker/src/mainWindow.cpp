@@ -1,5 +1,5 @@
 #include "mainWindow.h"
-#include "ui_helloQtOpenCV.h"
+#include "ui_imagePicker.h"
 using namespace cv;
 
 
@@ -10,8 +10,8 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
 
     // Create the image widget
-    HelloQtOpenCV* imageWidget = new HelloQtOpenCV();
-    HelloQtOpenCV* imageWidget2 = new HelloQtOpenCV();
+    ImagePicker* imageWidget = new ImagePicker();
+    ImagePicker* imageWidget2 = new ImagePicker();
     ui->imageLayout->addWidget(imageWidget);
     ui->imageLayout->addWidget(imageWidget2);
 
