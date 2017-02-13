@@ -3,7 +3,7 @@ This repository is supposed to be a personal OpenCV library written in C++. It c
 
 
 ### 01_helloOpenCV
-Hello world setup to run OpenCV with CMake in VS15. [link](src/c++/01_helloOpenCV/pages.md)
+Hello world setup to run OpenCV with CMake in VS15. [link](src/c++/01_helloOpenCV/README.md)
 
 ### 02_helloMayaOpenCV
 Hello world setup to run OpenCV inside Maya 2016 A Middleware folder structure is implemented containing Maya compatible OpenCV version. [link](src/c++/02_helloMayaOpenCV/pages.md)
