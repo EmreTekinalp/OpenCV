@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+This repository is supposed to be a personal OpenCV library written in C++. It contains different Widgets, Windows and Dialogs of simple examples so I can look it up in future. Based on the concept of out-of-source-build-tree, I'm using CMake to generate a VisualStudio15 project.
 
-You can use the [editor on GitHub](https://github.com/EmreTekinalp/OpenCV/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 01_helloOpenCV
+Hello world setup to run OpenCV with CMake in VS15. [link]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 02_helloMayaOpenCV
+Hello world setup to run OpenCV inside Maya 2016 A Middleware folder structure is implemented containing Maya compatible OpenCV version. [link]()
 
-```markdown
-Syntax highlighted code block
+### 03_helloQtOpenCV
+Custom UI designed in QtDesigner to run OpenCV with Qt 4.8 inside Maya 2016 A Middleware folder structure is implemented containing Maya compatible Qt version. [link]()
 
-# Header 1
-## Header 2
-### Header 3
+### 04_imagePicker
+Simple test imagePicker to familiarize with the OpenCV workflow. [link]()
 
-- Bulleted
-- List
+### 05_captureVideoFile
+Simple video file capture tool using OpenCV. [link]()
 
-1. Numbered
-2. List
+### 06_captureCamera
+Simple capture camera setup using OpenCV. [link]()
 
-**Bold** and _Italic_ and `Code` text
+### 07_saveImage
+Simple example with save image functionality in OpenCV. [link]()
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmreTekinalp/OpenCV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 08_saveVideo
+Simple example with save video functionality in OpenCV. [link]()
