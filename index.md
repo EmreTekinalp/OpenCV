@@ -1,6 +1,6 @@
-This repository includes a personal library of OpenCV related projects.
-
 This repository is supposed to be a personal OpenCV library written in C++. It contains different Widgets, Windows and Dialogs of simple examples so I can look it up in future. Based on the concept of out-of-source-build-tree, I'm using CMake to generate a VisualStudio15 project.
+
+
 
 ### 01_helloOpenCV
 Hello world setup to run OpenCV with CMake in VS15. [link]()
